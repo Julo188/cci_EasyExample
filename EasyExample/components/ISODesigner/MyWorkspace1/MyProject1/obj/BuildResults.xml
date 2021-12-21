@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<JVS-ISO-Build BuildTime-Start="20.09.2021 13:46:19" BuildTime-Finished="20.09.2021 13:46:19" Errors="0" Warnings="0">
-	<Errors/>
+<JVS-ISO-Build BuildTime-Start="16.11.2021 09:42:00" BuildTime-Finished="16.11.2021 09:42:00" CanceldByUser="0">
+	<Errors>
+		<Error Nr="31" Description="Macro 3, Command ChangeSoftKeyMask [ID: 174]: invalid mask type '', 1=Data or 2=Alarm expected." File=""/>
+	</Errors>
 	<Warnings/>
 </JVS-ISO-Build>
