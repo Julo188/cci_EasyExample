@@ -195,9 +195,9 @@ void VTC_handleSoftkeysAndButtons_RELEASED(const struct ButtonActivation_S *pBut
 		break;
 	case 3:
 		IsoVtcCmd_CtrlAudioSignal(pButtonData->u8Instance, 3, 440, 100, 500);
-		break:
+		break;
 	}
-
+}
 
 void VTC_handleNumericValues(const struct InputNumber_S * pInputNumberData) {
 	// what number was entered
